@@ -6,13 +6,11 @@ const SearchBox = function ({ searchChange }) {
         <div>
             <input
                 className="pa3 ba b--green bg-light-green "
-                type='Search' placeholder='Search Robots'
+                type='Search' placeholder='Search monster'
                 onChange={searchChange}
             ></input>
         </div>
     )
-
-
 
 }
 export default SearchBox;

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/monster-friends/static/css/main.e2634ccd.css",
-    "main.js": "/monster-friends/static/js/main.c854fa73.js",
-    "static/js/787.ab12092d.chunk.js": "/monster-friends/static/js/787.ab12092d.chunk.js",
-    "static/media/SEGA.woff": "/monster-friends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/monster-friends/index.html",
-    "main.e2634ccd.css.map": "/monster-friends/static/css/main.e2634ccd.css.map",
-    "main.c854fa73.js.map": "/monster-friends/static/js/main.c854fa73.js.map",
-    "787.ab12092d.chunk.js.map": "/monster-friends/static/js/787.ab12092d.chunk.js.map"
+    "main.css": "/mosterfriend/static/css/main.05be1cd4.css",
+    "main.js": "/mosterfriend/static/js/main.96a477a7.js",
+    "static/js/787.ab12092d.chunk.js": "/mosterfriend/static/js/787.ab12092d.chunk.js",
+    "static/media/SEGA.woff": "/mosterfriend/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/mosterfriend/index.html",
+    "main.05be1cd4.css.map": "/mosterfriend/static/css/main.05be1cd4.css.map",
+    "main.96a477a7.js.map": "/mosterfriend/static/js/main.96a477a7.js.map",
+    "787.ab12092d.chunk.js.map": "/mosterfriend/static/js/787.ab12092d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2634ccd.css",
-    "static/js/main.c854fa73.js"
+    "static/css/main.05be1cd4.css",
+    "static/js/main.96a477a7.js"
   ]
 }

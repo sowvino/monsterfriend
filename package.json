@@ -1,6 +1,6 @@
 {
   "name": "robofriend",
-  "homepage": "https://sowvino.github.io/monsterFriend",
+  "homepage": "https://sowvino.github.io/monster-friends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
